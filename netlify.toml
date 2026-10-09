@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "/418.html"
+  status = 418
+  force = true
